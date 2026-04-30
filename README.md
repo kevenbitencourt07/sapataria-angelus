@@ -1,4 +1,4 @@
-# Sapataria Angelu's
+# Sapataria Angelu's - Meu Projeto
 
 Site institucional da **Sapataria Angelu's**, uma sapataria artesanal dedicada ao reparo de peças e artigos de luxo.
 
@@ -20,12 +20,3 @@ O objetivo é oferecer uma presença online profissional, permitindo que cliente
 - HTML
 - CSS
 - JavaScript
-
-# Como executar o projeto
-
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/sapataria-angelus.git
-
-# Acesse a pasta
-cd sapataria-angelus
